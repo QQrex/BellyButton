@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url("../images/bac_image.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: #f7f7f7;
+  }
+
+  body {background-color: #D3D3D3;}
