@@ -9,6 +9,8 @@ data = data.slice(0, 10);
 // Reverse the array due to Plotly's defaults
 data = data.reverse();
 
+console.log(data)
+
 // Trace1 for the Greek Data
 var trace1 = {
   x: data.map(row => row.greekSearchResults),
